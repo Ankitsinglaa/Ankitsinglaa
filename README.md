@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Singla</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
-- 🌱 I’m currently learning **Frameworks, backend, database etc.**
-
 - 🔭 I’m currently working on [Forever](https://shopping-frontend-orpin.vercel.app/)
-
-- 🤝 I’m looking for job **Web-developer**
 
 - 👨‍💻 All of my projects are available at [https://ankitfolios.vercel.app/](https://ankitfolios.vercel.app/)
 
